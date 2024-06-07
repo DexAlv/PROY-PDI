@@ -1,0 +1,17 @@
+.app{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  gap: 30px;
+}
+
+.header{
+  display: flex;
+  justify-content: space-around;
+}
+
+.holder{
+  display: flex;
+  max-width: 1000px;
+  max-height: 300px;
+}
